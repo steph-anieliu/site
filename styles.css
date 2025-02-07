@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'YourFontName'; /*a name to be used later*/
-    src: url('http://domain.example/fonts/font.ttf'); /*URL to font*/
+    font-family: 'Serat'; /*a name to be used later*/
+    src: url('https://github.com/steph-anieliu/site/blob/main/SeratUltra-1GE24.ttf'); /*URL to font*/
 }
 
 body {
