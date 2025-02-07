@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'YourFontName'; /*a name to be used later*/
+    src: url('http://domain.example/fonts/font.ttf'); /*URL to font*/
+}
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
