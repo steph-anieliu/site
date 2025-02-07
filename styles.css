@@ -1,7 +1,15 @@
-@font-face {
-    font-family: 'Serat'; /*a name to be used later*/
-    src: url('https://github.com/steph-anieliu/site/blob/main/SeratUltra-1GE24.ttf'); /*URL to font*/
+.young-serif-regular {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
 }
+
+h1 {
+    color: yellow;
+    font-family: "Young Serif", serif;
+    text-align: center;
+}
+  
 
 body {
     font-family: Arial, sans-serif;
